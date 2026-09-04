@@ -1,0 +1,19 @@
+{
+  "schema": 1,
+  "product": "CyberHub",
+  "type": "module",
+  "id": "amateur_photo",
+  "name": "Amateur Photo",
+  "summary": "Apply casual phone, film, webcam and snapshot aesthetics.",
+  "version": "1.0",
+  "minimum_hub_version": "1.3.0",
+  "repository": "cyberdeliaAI/CyberHub-Amateur-Photo",
+  "publisher_type": "official",
+  "channel": "stable",
+  "dependencies": [],
+  "python_dependencies": [
+    "Pillow>=9.0",
+    "numpy>=1.24",
+    "opencv-python-headless>=4.8"
+  ]
+}
